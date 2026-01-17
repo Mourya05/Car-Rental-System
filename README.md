@@ -90,4 +90,4 @@ CarRentalSystem/
 
 Make sure to have MySQL running and properly configured before starting the application.
 
-<!-- copilot-tick 2026-01-17T04:54:28.875Z -->
+
